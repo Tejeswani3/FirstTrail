@@ -2,4 +2,8 @@ yayyy
 
 hlo
 
+<<<<<<< HEAD
 local change
+=======
+rewritten
+>>>>>>> 8d49b6bfc49998634651fb676965c054788154ad
